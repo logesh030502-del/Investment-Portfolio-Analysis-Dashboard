@@ -2,14 +2,15 @@
 Designed interactive dashboard to monitor portfolio performance &amp; returns Analyzed asset allocation and risk metrics Created DAX measures for KPIs and growth trends Enabled data-driven investment decisions through visual insights
 :
 
-** Investment Portfolio Analysis & Dashboard (Power BI)**
+**Investment Portfolio Analysis & Dashboard (Power BI)**
+
 ** Project Overview**
 
 This project focuses on analyzing a diversified investment portfolio using Power BI. The dashboard provides a comprehensive view of different asset classes including Gold, Provident Fund (PF), Mutual Funds, Government Bonds, and Fixed Deposits (FDs).
 
 The objective is to track performance, understand asset allocation, and evaluate risk vs return to support better financial decision-making.
 
-** Objectives**
+* Objectives
 
 Monitor overall portfolio performance
 Compare returns across different investment types
@@ -25,8 +26,8 @@ Provide insights for optimizing investment strategy
  Government Bonds – Low-risk fixed income securities
  Fixed Deposits (FDs) – Secure investments with fixed returns
  
-**** Key Metrics & KPIs****
-
+**  Key Metrics & KPIs
+**
 Total Portfolio Value
 Return on Investment (ROI)
 Portfolio Growth Over Time
